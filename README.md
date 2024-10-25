@@ -12,6 +12,7 @@ Outil CI : GitLab
   • Possibilité de déploiement on-premise
   • Fonctionnalités de gestion de projet et de suivi des problèmes intégrées
   • Peut être utilisé avec Visual Studio Code en ajoutant l'extension
+  • Possibilité d'importer le projet GitHub depuis GitLab
  
  Inconvénients :
   • Complexité potentielle pour les configurations avancées
@@ -19,5 +20,5 @@ Outil CI : GitLab
   • Courbe d'apprentissage pour maîtriser toutes les fonctionnalités
   • Coût élevé des plans payants pour les fonctionnalités avancées
   • Performances parfois ralenties lors de charges importantes
-  • Dépendance à l'écosystème GitLab pour une utilisation optimale
+  • Dépendance à l'écosystème GitLab pour une utilisation optimale|
 Étant donné que nous n'irons probablement pas dans une démarche d'utilisation trop avancée, les inconvénients potentiels lors de l'utilisation de cet outil nous impacteront peu, rendant celui-ci le plus intéressant pour notre utilisation.
