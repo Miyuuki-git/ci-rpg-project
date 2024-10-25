@@ -7,12 +7,8 @@ Outil CI : GitLab
   • Solution intégrée combinant gestion de code source et CI/CD
   • Configuration flexible via fichier YAML
   • Déclenchement automatique des pipelines à chaque push ou merge request
-  • Interface visuelle pour surveiller les étapes et jobs des pipelines
-  • Large écosystème d'intégrations et d'extensions
-  • Possibilité de déploiement on-premise
-  • Fonctionnalités de gestion de projet et de suivi des problèmes intégrées
+  • Fonctionnalités de gestion de projet et de suivi des problèmes intégrées (suivi et assignation des tâches en cours et dates d'échéances)
   • Peut être utilisé avec Visual Studio Code en ajoutant l'extension
-  • Possibilité d'importer le projet GitHub depuis GitLab
  
  Inconvénients :
   • Complexité potentielle pour les configurations avancées
